@@ -1,0 +1,534 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "Product A",
+        "description": "This is product A.",
+        "price": 19.99,
+        "category": "Electronics",
+        "image": "product_a.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Product B",
+        "description": "Product B description goes here.",
+        "price": 29.99,
+        "category": "Clothing",
+        "image": "product_b.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Product C",
+        "description": "Product C is a versatile item.",
+        "price": 9.99,
+        "category": "Home & Kitchen",
+        "image": "product_c.jpg"
+      },
+      {
+        "id": "4",
+        "name": "Product D",
+        "description": "Product D is great for outdoor activities.",
+        "price": 49.99,
+        "category": "Sports & Outdoors",
+        "image": "product_d.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Product E",
+        "description": "Product E description goes here.",
+        "price": 39.99,
+        "category": "Electronics",
+        "image": "product_e.jpg"
+      },
+      {
+        "id": "6",
+        "name": "Product F",
+        "description": "Product F is a fashionable choice.",
+        "price": 24.99,
+        "category": "Clothing",
+        "image": "product_f.jpg"
+      },
+      {
+        "id": "7",
+        "name": "Product G",
+        "description": "Product G is perfect for your kitchen.",
+        "price": 14.99,
+        "category": "Home & Kitchen",
+        "image": "product_g.jpg"
+      },
+      {
+        "id": "8",
+        "name": "Product H",
+        "description": "Product H for adventure seekers.",
+        "price": 64.99,
+        "category": "Sports & Outdoors",
+        "image": "product_h.jpg"
+      },
+      {
+        "id": "9",
+        "name": "Product I",
+        "description": "Product I description goes here.",
+        "price": 29.99,
+        "category": "Electronics",
+        "image": "product_i.jpg"
+      },
+      {
+        "id": "10",
+        "name": "Product J",
+        "description": "Product J is a cozy choice.",
+        "price": 19.99,
+        "category": "Clothing",
+        "image": "product_j.jpg"
+      },
+      {
+        "id": "11",
+        "name": "Product K",
+        "description": "Product K is a kitchen essential.",
+        "price": 9.99,
+        "category": "Home & Kitchen",
+        "image": "product_k.jpg"
+      },
+      {
+        "id": "12",
+        "name": "Product L",
+        "description": "Product L is great for sports.",
+        "price": 39.99,
+        "category": "Sports & Outdoors",
+        "image": "product_l.jpg"
+      },
+      {
+        "id": "13",
+        "name": "Product M",
+        "description": "Product M description goes here.",
+        "price": 29.99,
+        "category": "Electronics",
+        "image": "product_m.jpg"
+      },
+      {
+        "id": "14",
+        "name": "Product N",
+        "description": "Product N is a stylish choice.",
+        "price": 24.99,
+        "category": "Clothing",
+        "image": "product_n.jpg"
+      },
+      {
+        "id": "15",
+        "name": "Product O",
+        "description": "Product O for your kitchen needs.",
+        "price": 14.99,
+        "category": "Home & Kitchen",
+        "image": "product_o.jpg"
+      },
+      {
+        "id": "16",
+        "name": "Product P",
+        "description": "Product P is ideal for outdoor activities.",
+        "price": 59.99,
+        "category": "Sports & Outdoors",
+        "image": "product_p.jpg"
+      },
+      {
+        "id": "17",
+        "name": "Product Q",
+        "description": "Product Q description goes here.",
+        "price": 49.99,
+        "category": "Electronics",
+        "image": "product_q.jpg"
+      },
+      {
+        "id": "18",
+        "name": "Product R",
+        "description": "Product R is a comfortable choice.",
+        "price": 29.99,
+        "category": "Clothing",
+        "image": "product_r.jpg"
+      },
+      {
+        "id": "19",
+        "name": "Product S",
+        "description": "Product S is a versatile kitchen tool.",
+        "price": 12.99,
+        "category": "Home & Kitchen",
+        "image": "product_s.jpg"
+      },
+      {
+        "id": "20",
+        "name": "Product T",
+        "description": "Product T is perfect for sports enthusiasts.",
+        "price": 54.99,
+        "category": "Sports & Outdoors",
+        "image": "product_t.jpg"
+      },
+      {
+        "id": "21",
+        "name": "Product U",
+        "description": "Product U description goes here.",
+        "price": 34.99,
+        "category": "Electronics",
+        "image": "product_u.jpg"
+      },
+      {
+        "id": "22",
+        "name": "Product V",
+        "description": "Product V is a fashionable addition to your wardrobe.",
+        "price": 29.99,
+        "category": "Clothing",
+        "image": "product_v.jpg"
+      },
+      {
+        "id": "23",
+        "name": "Product W",
+        "description": "Product W for kitchen enthusiasts.",
+        "price": 17.99,
+        "category": "Home & Kitchen",
+        "image": "product_w.jpg"
+      },
+      {
+        "id": "24",
+        "name": "Product X",
+        "description": "Product X is great for outdoor adventures.",
+        "price": 44.99,
+        "category": "Sports & Outdoors",
+        "image": "product_x.jpg"
+      },
+      {
+        "id": "25",
+        "name": "Product Y",
+        "description": "Product Y description goes here.",
+        "price": 39.99,
+        "category": "Electronics",
+        "image": "product_y.jpg"
+      }
+    ],
+    "sales": [
+      {
+        "id": "101",
+        "productId": "1",
+        "quantity": 5,
+        "date": "2023-09-01",
+        "orderId": "ORD-101"
+      },
+      {
+        "id": "102",
+        "productId": "2",
+        "quantity": 3,
+        "date": "2023-09-02",
+        "orderId": "ORD-102"
+      },
+      {
+        "id": "103",
+        "productId": "3",
+        "quantity": 10,
+        "date": "2023-09-02",
+        "orderId": "ORD-103"
+      },
+      {
+        "id": "104",
+        "productId": "4",
+        "quantity": 7,
+        "date": "2023-09-03",
+        "orderId": "ORD-104"
+      },
+      {
+        "id": "105",
+        "productId": "1",
+        "quantity": 6,
+        "date": "2023-09-04",
+        "orderId": "ORD-105"
+      },
+      {
+        "id": "106",
+        "productId": "2",
+        "quantity": 4,
+        "date": "2023-09-05",
+        "orderId": "ORD-106"
+      },
+      {
+        "id": "107",
+        "productId": "3",
+        "quantity": 8,
+        "date": "2023-09-06",
+        "orderId": "ORD-107"
+      },
+      {
+        "id": "108",
+        "productId": "4",
+        "quantity": 9,
+        "date": "2023-09-07",
+        "orderId": "ORD-108"
+      },
+      {
+        "id": "109",
+        "productId": "5",
+        "quantity": 2,
+        "date": "2023-09-08",
+        "orderId": "ORD-109"
+      },
+      {
+        "id": "110",
+        "productId": "6",
+        "quantity": 5,
+        "date": "2023-09-09",
+        "orderId": "ORD-110"
+      },
+      {
+        "id": "111",
+        "productId": "7",
+        "quantity": 3,
+        "date": "2023-09-10",
+        "orderId": "ORD-111"
+      },
+      {
+        "id": "112",
+        "productId": "8",
+        "quantity": 4,
+        "date": "2023-09-11",
+        "orderId": "ORD-112"
+      },
+      {
+        "id": "113",
+        "productId": "1",
+        "quantity": 7,
+        "date": "2023-09-12",
+        "orderId": "ORD-113"
+      },
+      {
+        "id": "114",
+        "productId": "2",
+        "quantity": 3,
+        "date": "2023-09-13",
+        "orderId": "ORD-114"
+      },
+      {
+        "id": "115",
+        "productId": "3",
+        "quantity": 11,
+        "date": "2023-09-14",
+        "orderId": "ORD-115"
+      },
+      {
+        "id": "116",
+        "productId": "4",
+        "quantity": 6,
+        "date": "2023-09-15",
+        "orderId": "ORD-116"
+      },
+      {
+        "id": "117",
+        "productId": "5",
+        "quantity": 9,
+        "date": "2023-09-16",
+        "orderId": "ORD-117"
+      },
+      {
+        "id": "118",
+        "productId": "6",
+        "quantity": 4,
+        "date": "2023-09-17",
+        "orderId": "ORD-118"
+      },
+      {
+        "id": "119",
+        "productId": "7",
+        "quantity": 8,
+        "date": "2023-09-18",
+        "orderId": "ORD-119"
+      },
+      {
+        "id": "120",
+        "productId": "8",
+        "quantity": 3,
+        "date": "2023-09-19",
+        "orderId": "ORD-120"
+      },
+      {
+        "id": "121",
+        "productId": "1",
+        "quantity": 5,
+        "date": "2023-09-20",
+        "orderId": "ORD-121"
+      },
+      {
+        "id": "122",
+        "productId": "7",
+        "quantity": 8,
+        "date": "2023-09-18",
+        "orderId": "ORD-119"
+      },
+      {
+        "id": "123",
+        "productId": "8",
+        "quantity": 3,
+        "date": "2023-09-19",
+        "orderId": "ORD-120"
+      },
+      {
+        "id": "124",
+        "productId": "1",
+        "quantity": 5,
+        "date": "2023-09-20",
+        "orderId": "ORD-121"
+      },
+      {
+        "id": "125",
+        "productId": "1",
+        "quantity": 5,
+        "date": "2023-09-20",
+        "orderId": "ORD-121"
+      }
+    ],
+    "inventory": [
+      {
+        "productId": "1",
+        "initialStock": 50,
+        "currentStock": 45,
+        "lowStockThreshold": 10
+      },
+      {
+        "productId": "2",
+        "initialStock": 30,
+        "currentStock": 27,
+        "lowStockThreshold": 5
+      },
+      {
+        "productId": "3",
+        "initialStock": 100,
+        "currentStock": 90,
+        "lowStockThreshold": 15
+      },
+      {
+        "productId": "4",
+        "initialStock": 60,
+        "currentStock": 53,
+        "lowStockThreshold": 10
+      },
+      {
+        "productId": "5",
+        "initialStock": 40,
+        "currentStock": 35,
+        "lowStockThreshold": 8
+      },
+      {
+        "productId": "6",
+        "initialStock": 28,
+        "currentStock": 22,
+        "lowStockThreshold": 7
+      },
+      {
+        "productId": "7",
+        "initialStock": 90,
+        "currentStock": 83,
+        "lowStockThreshold": 14
+      },
+      {
+        "productId": "8",
+        "initialStock": 55,
+        "currentStock": 51,
+        "lowStockThreshold": 9
+      },
+      {
+        "productId": "9",
+        "initialStock": 75,
+        "currentStock": 70,
+        "lowStockThreshold": 12
+      },
+      {
+        "productId": "10",
+        "initialStock": 25,
+        "currentStock": 22,
+        "lowStockThreshold": 5
+      },
+      {
+        "productId": "11",
+        "initialStock": 35,
+        "currentStock": 33,
+        "lowStockThreshold": 7
+      },
+      {
+        "productId": "12",
+        "initialStock": 45,
+        "currentStock": 40,
+        "lowStockThreshold": 8
+      },
+      {
+        "productId": "13",
+        "initialStock": 20,
+        "currentStock": 18,
+        "lowStockThreshold": 4
+      },
+      {
+        "productId": "14",
+        "initialStock": 70,
+        "currentStock": 64,
+        "lowStockThreshold": 14
+      },
+      {
+        "productId": "15",
+        "initialStock": 48,
+        "currentStock": 45,
+        "lowStockThreshold": 10
+      },
+      {
+        "productId": "16",
+        "initialStock": 38,
+        "currentStock": 35,
+        "lowStockThreshold": 6
+      },
+      {
+        "productId": "17",
+        "initialStock": 85,
+        "currentStock": 80,
+        "lowStockThreshold": 15
+      },
+      {
+        "productId": "18",
+        "initialStock": 42,
+        "currentStock": 40,
+        "lowStockThreshold": 8
+      },
+      {
+        "productId": "19",
+        "initialStock": 60,
+        "currentStock": 58,
+        "lowStockThreshold": 10
+      },
+      {
+        "productId": "20",
+        "initialStock": 32,
+        "currentStock": 30,
+        "lowStockThreshold": 6
+      },
+      {
+        "productId": "21",
+        "initialStock": 52,
+        "currentStock": 50,
+        "lowStockThreshold": 10
+      },
+      {
+        "productId": "22",
+        "initialStock": 44,
+        "currentStock": 42,
+        "lowStockThreshold": 8
+      },
+      {
+        "productId": "23",
+        "initialStock": 80,
+        "currentStock": 78,
+        "lowStockThreshold": 15
+      },
+      {
+        "productId": "24",
+        "initialStock": 65,
+        "currentStock": 62,
+        "lowStockThreshold": 12
+      },
+      {
+        "productId": "25",
+        "initialStock": 58,
+        "currentStock": 55,
+        "lowStockThreshold": 10
+      }
+    ]
+  }
+  

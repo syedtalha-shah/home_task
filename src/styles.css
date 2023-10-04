@@ -1,0 +1,181 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  /* RevenueAnalysis.css */
+  
+  .revenue-analysis {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
+  .revenue-analysis h2 {
+    color: #007bff;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .revenue-analysis div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .revenue-analysis label {
+    font-weight: bold;
+  }
+  
+  .revenue-analysis select {
+    padding: 8px;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    margin-left: 10px;
+    cursor: pointer;
+    background-color: #fff;
+    color: #007bff;
+  }
+  
+  .revenue-analysis select:hover {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  /* InventoryManagement.css */
+  
+  .inventory-management {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .filter-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .filter-controls label {
+    font-weight: bold;
+  }
+  
+  .filter-controls input[type="text"] {
+    padding: 8px;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    margin-left: 10px;
+  }
+  
+  .filter-controls select {
+    padding: 8px;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    margin-left: 10px;
+    cursor: pointer;
+    background-color: #fff;
+    color: #007bff;
+  }
+  
+  .filter-controls select:hover {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  /* Add more styles as needed */
+  
+  
+  .product-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .product-table th,
+  .product-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .product-table th {
+    background-color: #30302e; /* Black background for table header */
+    color: #fff; /* White text color for table header */
+    font-weight: bold;
+  }
+  
+  .product-table tbody tr:nth-child(even) {
+    background-color: #f0f0f0; /* Grey background for even rows */
+  }
+  
+  .product-table tbody tr:nth-child(odd) {
+    background-color: #fff; /* White background for odd rows */
+  }
+  
+  .product-table img {
+    max-width: 100px;
+    max-height: 100px;
+  }
+  
+  /* Sample CSS for styling the registration form */
+  .registration-container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .registration-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .registration-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .registration-label {
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .registration-input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  
+  .registration-input[type="file"] {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .registration-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .registration-button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Add more CSS styles as needed */
+  
