@@ -130,7 +130,7 @@ export default function App() {
       <InventoryManagementPage />
       <br />
       <br />
-      <br /> <br />
+      <br />
       <br />
       <br />
       <ProductRegistration />
